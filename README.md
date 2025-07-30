@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://imadilkhan.github.io/](https://imadilkhan.github.io/)
 
-- 💬 Ask me about **Django, Python, Web-Dev, Data Structure And Algorithms.**
+- 💬 Ask me about **React, Node, Django, Python, Web-Dev, Data Structure And Algorithms.**
 
 - 📫 How to reach me **blueaadil@gmail.com**
 
